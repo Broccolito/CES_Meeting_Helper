@@ -5,7 +5,7 @@ vars <- reactiveValues(chat=NULL, users=NULL)
 if (file.exists("chat.Rds")){
   vars$chat <- readRDS("chat.Rds")
 }else{
-  vars$chat <- "Welcome to CES Meeting Helper Live Chat"
+  vars$chat <- "Welcome to Meeting Scheduler Live Chat"
 }
 
 # Get the prefix for the line to be added to the chat window. Usually a newline

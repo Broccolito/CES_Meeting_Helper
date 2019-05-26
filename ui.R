@@ -9,12 +9,12 @@ input_data_tab<-function(){
           ),
           fluidRow(
             box(width=12,title="",
-                textInput(inputId="name",label="Name",placeholder="Change placeholder")%>%
+                textInput(inputId="name",label="Name",placeholder="Full Name")%>%
                   shinyInput_label_embed(
                     icon("info") %>%
                       bs_embed_tooltip(title = "Please enter your full name.")
                   ),
-                textInput(inputId="availability",label="Availability",placeholder="Change placeholder")%>%
+                textInput(inputId="availability",label="Availability",placeholder="Time Frame")%>%
                   shinyInput_label_embed(
                     icon("info") %>%
                       bs_embed_tooltip(title = "Please choose the time that suits you the best from the time mentioned in the banner.")

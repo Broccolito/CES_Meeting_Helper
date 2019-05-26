@@ -1,0 +1,12 @@
+name: Meeting_Scheduler
+title: Meeting_Scheduler
+username:
+account: wanjun-gu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 949685
+bundleId: 2109716
+url: https://wanjun-gu.shinyapps.io/Meeting_Scheduler/
+when: 1558892208.60921
+asMultiple: FALSE
+asStatic: FALSE
