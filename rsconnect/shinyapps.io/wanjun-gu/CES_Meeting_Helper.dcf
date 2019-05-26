@@ -1,0 +1,12 @@
+name: CES_Meeting_Helper
+title: CES_Meeting_Helper
+username:
+account: wanjun-gu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 949303
+bundleId: 2109164
+url: https://wanjun-gu.shinyapps.io/CES_Meeting_Helper/
+when: 1558859364.40463
+asMultiple: FALSE
+asStatic: FALSE
