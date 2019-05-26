@@ -35,8 +35,10 @@ library(dplyr)
 library(dbplyr)
 library(RSQLite)
 library(stringr)
-
-#If some of the packages are not installed yet, install using:
+```
+<br>
+If some of the packages are not installed yet, install using:
+```r
 if(!require("package_name")){
   install.packages("package_name")
   library("package_name")
