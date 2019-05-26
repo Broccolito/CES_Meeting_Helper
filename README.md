@@ -38,6 +38,7 @@ library(stringr)
 ```
 <br>
 If some of the packages are not installed yet, install using:
+
 ```r
 if(!require("package_name")){
   install.packages("package_name")
