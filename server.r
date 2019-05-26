@@ -4,7 +4,7 @@ function(input, output, session) {
   #Live chat controller
   ##########################################################################
   
-  # Create a spot for reactive variables specific to this particular session
+  # Create a spot for reactive variables specific to this particular session 
   sessionVars <- reactiveValues(username = "")
   
   # Track whether or not this session has been initialized. We'll use this to

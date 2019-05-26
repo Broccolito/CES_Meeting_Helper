@@ -4,7 +4,7 @@ vars <- reactiveValues(chat=NULL, users=NULL)
 # Restore the chat log from the last session.
 if (file.exists("chat.Rds")){
   vars$chat <- readRDS("chat.Rds")
-} else {
+}else{
   vars$chat <- "Welcome to CES Meeting Helper Live Chat"
 }
 
