@@ -1,5 +1,5 @@
 # Meeting Scheduler
-Meeting Scheduler
+Meeting Scheduler is an integrated web application for meeting scheduling and project management.
 
 ## Getting Started
 
@@ -52,7 +52,7 @@ if(!require("package_name")){
 
 The application is currently at version 1.1 deployed on shiny.io
 <br>
-[Meeting Scheduler](https://www.r-project.org/) - Shiny.io deploy site link
+[Meeting Scheduler](https://wanjun-gu.shinyapps.io/Meeting_Scheduler/) - Shiny.io deploy site link
 
 
 ## Authors
