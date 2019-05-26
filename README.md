@@ -37,6 +37,7 @@ library(RSQLite)
 library(stringr)
 ```
 <br>
+
 If some of the packages are not installed yet, install using:
 
 ```r
