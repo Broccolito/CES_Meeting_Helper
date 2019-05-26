@@ -1,11 +1,7 @@
-# Congratulations!
+# Choose your favorite meeting time
 
-You have scaffolded a simple shiny app.
-This tab allows a user to save the input you specified.
-The data is stored in the backend that you specified.
-This data is displayed in the next tab.
+The prefered meeting time are:
+* 9:00 a.m on Saturday
+* 3:00 p.m on Sunday
 
-Feel free to provide feedback by opening an [issue]
-(https://github.com/iainmwallace/scaffoldingShiny).
-
-  
+If you have another strongly preferred meeting time, please list it below to let us know.
