@@ -161,4 +161,12 @@ function(input, output, session) {
     }
   )
   
+  ##########################################################################
+  #Developer Tab Controller
+  ########################################################################## 
+  output$code_output <- renderPrint({
+    input$eval
+    return(isolate(eval(parse(text=input$code))))
+  }) 
+  
 }

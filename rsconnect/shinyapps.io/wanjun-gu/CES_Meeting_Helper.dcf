@@ -5,8 +5,8 @@ account: wanjun-gu
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 949303
-bundleId: 2109164
+bundleId: 2109615
 url: https://wanjun-gu.shinyapps.io/CES_Meeting_Helper/
-when: 1558859364.40463
+when: 1558886336.47868
 asMultiple: FALSE
 asStatic: FALSE
