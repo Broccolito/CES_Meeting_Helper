@@ -59,7 +59,7 @@ The application is currently at version 1.1 deployed on shiny.io
 [Meeting Scheduler](https://wanjun-gu.shinyapps.io/Meeting_Scheduler/) - Shiny.io deploy site link
 
 
-## Authors
+## Author(s)
 
 * **Wanjun Gu** - *Initial work* - [Broccolito](https://github.com/Broccolito)
 
@@ -69,3 +69,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
+This project has referenced source code from varieties of different instances. Given that all those instances are under MIT or GNU license, their help is tremendous. <br>
+* [ShinyAce example file](https://github.com/trestletech/shinyAce)
+* [Shiny Chat Room](https://shiny.rstudio.com/gallery/chat-room.html)
+* [scaffoldingShiny](https://github.com/iainmwallace/scaffoldingShiny)
